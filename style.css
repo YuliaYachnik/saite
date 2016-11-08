@@ -1,9 +1,11 @@
 body{
-	background:#BDB76B;
+	background:#FA8072;
 }
 p{
-	color:#000000;
+	color: #BC8F8F;
 }
 h1{
-	color:#F5F5F5;
+	color:#800000;
+	text-align:center;
+	font-size:130%;
 }
